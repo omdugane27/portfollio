@@ -27,7 +27,8 @@ z-index:100;
 width:60px;
 height:60px;
 border-radius:50%;
-background:#12d640;
+background:#8d928e;
+border-color: #cbcccb;
 display:flex;
 align-items:center;
 justify-content:center;
@@ -46,7 +47,7 @@ transition:0.3s;
 
 nav a:hover,
 nav a.active{
-color:#12d640;
+color:#da5a1e;
 }
 
 .home{
@@ -74,7 +75,7 @@ margin-bottom:15px;
 }
 
 .home-content h1 span{
-color:#12d640;
+color:#e66d1c;
 }
 
 .home-content h3{
@@ -121,11 +122,11 @@ background:#cbcccb;
 }
 
 .typing-text span{
-color:#28a345;
+color:#cc9113;
 font-weight:600;
 }
 #dynamic-text {
-    color: #28a345;
+    color: #e4842b;
     font-weight: bold;
 }
 
@@ -220,7 +221,7 @@ font-size:16px;
 }
 
 .nav-menu a:hover{
-color:#12d640;
+color:#ac620e;
 }
 #services{
 display:flex;
